@@ -1,0 +1,6 @@
+<section>
+    <h2>Imagenes</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor nibh augue, a efficitur enim malesuada vel. Praesent vulputate diam urna, vitae finibus magna egestas id. Vestibulum consectetur felis id malesuada congue. Ut ultrices egestas dignissim. Duis sodales nisl ac pretium tempus. In maximus purus at congue euismod. In hac habitasse platea dictumst. Fusce vitae tempor felis. Nullam dictum, neque in sollicitudin ultrices, augue nibh condimentum elit, id volutpat enim dolor sed purus. Sed a congue lorem, sit amet facilisis libero. Etiam accumsan enim erat, vitae facilisis arcu fermentum ut.</p>
+    
+
+</section>
