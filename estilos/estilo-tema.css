@@ -1,5 +1,6 @@
 section{
     padding:5px;
+    margin:20px;
 }
 
 .carousel{
@@ -11,7 +12,7 @@ section{
 }
 
 h1{
-    font-size:24px;
+    font-size:40px;
 }
 
 h2{
