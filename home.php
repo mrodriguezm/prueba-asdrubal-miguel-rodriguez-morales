@@ -15,15 +15,17 @@
     </header>
 
     <main>
+
         <?php include(get_stylesheet_directory() . '/sections/deportes.php'); ?>
 
         <?php include(get_stylesheet_directory() . '/sections/viajes.php'); ?>
 
 
-        <button id="politica-btn" value="false">Mostrar imágenes</button>
-        <?php 
-            
-        
+        <?php
+            $hora = date('H');
+            if ($hora >= 12 && $hora < 21) {
+                include(get_stylesheet_directory() . '/sections/imagenes.php'); // Muestra las imagenes solo durante las horas de la tarde
+            }
         ?>
 
         
